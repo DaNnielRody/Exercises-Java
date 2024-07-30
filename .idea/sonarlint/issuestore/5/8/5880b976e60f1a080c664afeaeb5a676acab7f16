@@ -1,0 +1,28 @@
+
+
+java:S1192:"GDefine a constant instead of duplicating this literal "%.6f%n" 3 times.(Úé‘øÿÿÿÿ8Î¡2J$483c5bb7-673f-4d9f-84f7-34f71d3f72ee
+r	java:S106:"+Replace this use of System.out by a logger.(Úé‘øÿÿÿÿ8Ö«ú 2J$5a8a688b-aa06-4903-8f16-2a2b41a43a6d
+~	java:S125/"<This block of commented-out lines of code should be removed.(¯¾©8Æƒü 2J$614c58d7-ae28-426d-8e7d-7c3c8a41e9e9
+r	java:S106;"+Replace this use of System.out by a logger.(øä‘ºøÿÿÿÿ8ò¶¡2J$11c8cfef-ba06-458e-80c3-e1d4af34a190
+m	java:S106<"+Replace this use of System.out by a logger.(‚ÓĞ²8ô¶¡2J$dc2aa510-0e9e-420a-ad80-342f3db59f22
+x
+java:S1854B"5Remove this useless assignment to local variable "n".(·Íå‹8Û«ú 2J$71dab8e7-6a41-4a51-bf52-38ed04213fec
+i
+java:S1481B"&Remove this unused "n" local variable.(·Íå‹8ç«ú 2J$bc60dfda-35af-400e-b784-ca7e29dbf239
+½
+java:S6204F"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(â¥8è«ú 2J$05dacf5e-4583-4b89-8e68-942bbf504313
+i
+java:S1128
+"&Remove this unused import 'java.math'.(âî©8¨Ûú 2J$e6261225-e3c7-4860-acfb-4b50c50775af
+m
+java:S1128"*Remove this unused import 'java.security'.(èÛò§8©Ûú 2J$f46cfaf4-a2bd-4ddd-8b95-5ba9d152877a
+i
+java:S1128"&Remove this unused import 'java.text'.(ë¼Èí8ªÛú 2J$e5d7245c-6562-4535-aac3-3116fef389cb
+s
+java:S1128"1Remove this unused import 'java.util.concurrent'.(íĞ¢68«Ûú 2J$f5d57254-7cb0-41a6-accf-805e2744620e
+r
+java:S1128"/Remove this unused import 'java.util.function'.(Üş’¿8«Ûú 2J$28c22fdc-8afc-47f1-bff1-df0778fba17f
+o
+java:S1128",Remove this unused import 'java.util.regex'.(£‘¬Ş8¬Ûú 2J$ac4ab149-2a96-45dc-80ea-28ebfb33a9f2
+ˆ
+java:S1128"@Remove this unused import 'java.util.stream.Collectors.joining'.(Æñ¿âşÿÿÿÿ8­Ûú 2J$a9b116ec-4545-42d5-8093-c25893a1c5f8
